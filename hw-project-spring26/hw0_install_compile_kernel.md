@@ -1,5 +1,5 @@
 
-# Project 0: Linux Setup, Terminal Basics, and Your First Kernel Compilation
+# Homework 0: Linux Setup, Terminal Basics, and Your First Kernel Compilation
 *written with the help of DeepSeek based on previous semester's hw0*
 
 **Due date:** TBA  

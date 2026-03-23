@@ -1,4 +1,4 @@
-# Proje 0: Linux Kurulumu, Terminal Temelleri ve İlk Kernel Derlemeniz
+# Ödev 0: Linux Kurulumu, Terminal Temelleri ve İlk Kernel Derlemeniz
 
 **Son Teslim Tarihi:** [TBA]  
 
