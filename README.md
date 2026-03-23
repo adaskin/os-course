@@ -71,7 +71,10 @@ By the end of this course, students will be able to:
 
 2. Chapter 2: Operating System Services-structures-linkers/loaders  [⟶2services-structs.pdf](lectures/2services-structs.pdf) 
 3. Chapter 3: Processes     [⟶3processes.pdf](lectures/3processes.pdf) 
-4. Chapter 4: Threads & Concurrency   [⟶4concurrency-threads.pdf](lectures/4concurrency-threads.pdf)   
+4. Chapter 4: Threads & Concurrency   
+   - Intro to concurrency and multi thread programming [⟶4a-concurrency-multi-thread-programming.pdf](lectures/4a-concurrency-multi-thread-programming.pdf)  
+   - Multi thread programming examples in C/C++, Java, Python [⟶4b-multi-thread-programming-examples.md](lectures/4b-multi-thread-programming-examples.md)   
+   - User threads vs kernel threads [⟶4c-user-and-kernel-threads.pdf](lectures/4c-user-and-kernel-threads.pdf) 
 5. Chapter 5: CPU Scheduling    [⟶5cpu-scheduling.pdf](lectures/5cpu-scheduling.pdf) 
    - some readings: 
      - [Old CFS load balancing issues on multicore](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
