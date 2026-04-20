@@ -79,19 +79,20 @@ By the end of this course, students will be able to:
    - some readings: 
      - [Old CFS load balancing issues on multicore](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
      - [New Linux Scheduler](https://docs.kernel.org/scheduler/sched-eevdf.html)
-6. Intro to Synchronization: Peterson solution, spin-locks, atomic instructions, memory barriers (e.g., mb, fence, volatile), C11 atomic library (relaxed, acquire, release) 
+7.  Midterm exam
+
+8. Intro to Synchronization: User libraries, mutexes, condition variables, monitors, deadlock, livelock.
     [⟶6synchronization-intro.pdf](lectures/6synchronization-intro.pdf) 
-7.  Midterm exam 
-8.  Synchronization II (implementation of locks, low level locks: disabling interrupts and spin-locks, improving spinlock efficiency, lock free programming, cache coherency, deadlock, transactional memory)    
+ 
+9.  Synchronization II (implementation of locks, low level locks: disabling interrupts and spin-locks,   
+    more advanced topics: improving spinlock efficiency, cache coherency, lock free programming)    
     [⟶7synchronization-II.pdf](lectures/7synchronization-II.pdf)  
-9.  Synchronization review  
-    [⟶8synchronization-review.pdf](lectures/8synchronization-review.pdf)  
 10.  Chapter 9: Main Memory  
     [⟶9vm-hw.pdf](lectures/9vm-hw.pdf)  
 11.  Chapter 10: Virtual Memory    
     [⟶10vm-os.pdf](lectures/10vm-os.pdf) 
 12.  Chapter 11-12: I/O Systems   
-    [⟶11io-systems.pdf](lectures/11io-systems.pdf) 
+   [⟶11io-systems.pdf](lectures/11io-systems.pdf) 
 13. Disk and storage
     [⟶12disk-io.pdf](lectures/12disk-io.pdf)   
 14.  Chapter 13-14-15: File-System Interface, Implementation, and Internals    
