@@ -62,12 +62,12 @@ By the end of this course, students will be able to:
     *   [https://linux-kernel-labs.github.io/refs/heads/master/index.html](https://linux-kernel-labs.github.io/refs/heads/master/index.html)         
     *   Testing Linux: [https://linux-test-project.github.io/](https://linux-test-project.github.io/)
         
-## Weekly topics and lecture notes
-* Week-1:
-  1. Administrivia [⟶0administrivia.pdf](lectures/0administrivia.pdf)
-  2. Intro: running a software on a machine [⟶0intro-os-vms-running-sw.pdf](lectures/0intro-os-vms-running-sw.pdf)
-     1. An extra: How to interact with OS: some terminal commands [⟶0intro-how-to-interact-with-os](lectures/0intro-how-to-interact-with-os)
-  3. Chapter 1: Introduction to OS  [⟶1intro.pdf](lectures/1intro.pdf) 
+## Topics and lecture notes
+1. 
+   - Administrivia [⟶0administrivia.pdf](lectures/0administrivia.pdf)
+   - Intro: running a software on a machine [⟶0intro-os-vms-running-sw.pdf](lectures/0intro-os-vms-running-sw.pdf)
+        - An extra: How to interact with OS: some terminal commands [⟶0intro-how-to-interact-with-os](lectures/0intro-how-to-interact-with-os)
+   - Chapter 1: Introduction to OS  [⟶1intro.pdf](lectures/1intro.pdf) 
 
 2. Chapter 2: Operating System Services-structures-linkers/loaders  [⟶2services-structs.pdf](lectures/2services-structs.pdf) 
 3. Chapter 3: Processes     [⟶3processes.pdf](lectures/3processes.pdf) 
@@ -79,24 +79,24 @@ By the end of this course, students will be able to:
    - some readings: 
      - [Old CFS load balancing issues on multicore](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
      - [New Linux Scheduler](https://docs.kernel.org/scheduler/sched-eevdf.html)
-7.  Midterm exam
+6.  Midterm exam
 
-8. Intro to Synchronization: User libraries, mutexes, condition variables, monitors, deadlock, livelock.
+7. Intro to Synchronization: User libraries, mutexes, condition variables, monitors, deadlock, livelock.
     [⟶6synchronization-intro.pdf](lectures/6synchronization-intro.pdf) 
  
-9.  Synchronization II (implementation of locks, low level locks: disabling interrupts and spin-locks,   
+8.  Synchronization II (implementation of locks, low level locks: disabling interrupts and spin-locks,   
     more advanced topics: improving spinlock efficiency, cache coherency, lock free programming)    
     [⟶7synchronization-II.pdf](lectures/7synchronization-II.pdf)  
     See also basic examples in [lec7-examples](lectures/lec7-examples/) 
-10.  Chapter 9-10: Virtual Memory-hardware and OS  
+9.   Chapter 9-10: Virtual Memory-hardware and OS  
     [⟶8a-vm-hw.pdf](lectures/8a-vm-hw.pdf) and [⟶8b-vm-os.pdf](lectures/8b-vm-os.pdf) 
-11.  Chapter 11-12: I/O Systems   
+10.  Chapter 11-12: I/O Systems   
    [⟶11io-systems.pdf](lectures/11io-systems.pdf) 
-12. Disk and storage
+11. Disk and storage
     [⟶12disk-io.pdf](lectures/12disk-io.pdf)   
-13.  Chapter 13-14-15: File-System Interface, Implementation, and Internals    
+12.  Chapter 13-14-15: File-System Interface, Implementation, and Internals    
     [⟶13file-systems.pdf](lectures/13file-systems.pdf)   
-14.  Protection, Security
+13.  Protection, Security
     [⟶14protection-security.pdf](lectures/14protection-security.pdf)  
     
 
