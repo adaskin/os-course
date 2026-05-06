@@ -87,17 +87,16 @@ By the end of this course, students will be able to:
 9.  Synchronization II (implementation of locks, low level locks: disabling interrupts and spin-locks,   
     more advanced topics: improving spinlock efficiency, cache coherency, lock free programming)    
     [⟶7synchronization-II.pdf](lectures/7synchronization-II.pdf)  
-10.  Chapter 9: Main Memory  
-    [⟶9vm-hw.pdf](lectures/9vm-hw.pdf)  
-11.  Chapter 10: Virtual Memory    
-    [⟶10vm-os.pdf](lectures/10vm-os.pdf) 
-12.  Chapter 11-12: I/O Systems   
+    See also basic examples in [lec7-examples](lectures/lec7-examples/) 
+10.  Chapter 9-10: Virtual Memory-hardware and OS  
+    [⟶8a-vm-hw.pdf](lectures/8a-vm-hw.pdf) and [⟶8b-vm-os.pdf](lectures/8b-vm-os.pdf) 
+11.  Chapter 11-12: I/O Systems   
    [⟶11io-systems.pdf](lectures/11io-systems.pdf) 
-13. Disk and storage
+12. Disk and storage
     [⟶12disk-io.pdf](lectures/12disk-io.pdf)   
-14.  Chapter 13-14-15: File-System Interface, Implementation, and Internals    
+13.  Chapter 13-14-15: File-System Interface, Implementation, and Internals    
     [⟶13file-systems.pdf](lectures/13file-systems.pdf)   
-15.  Protection, Security
+14.  Protection, Security
     [⟶14protection-security.pdf](lectures/14protection-security.pdf)  
     
 
