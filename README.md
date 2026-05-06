@@ -62,7 +62,10 @@ By the end of this course, students will be able to:
     *   [https://linux-kernel-labs.github.io/refs/heads/master/index.html](https://linux-kernel-labs.github.io/refs/heads/master/index.html)         
     *   Testing Linux: [https://linux-test-project.github.io/](https://linux-test-project.github.io/)
         
-## Topics and lecture notes
+## Topics and lecture notes 
+*you may see slight changes and some slides maybe covered in more than a week*
+
+### Weeks 1-8
 1. 
    - Administrivia [⟶0administrivia.pdf](lectures/0administrivia.pdf)
    - Intro: running a software on a machine [⟶0intro-os-vms-running-sw.pdf](lectures/0intro-os-vms-running-sw.pdf)
@@ -70,7 +73,9 @@ By the end of this course, students will be able to:
    - Chapter 1: Introduction to OS  [⟶1intro.pdf](lectures/1intro.pdf) 
 
 2. Chapter 2: Operating System Services-structures-linkers/loaders  [⟶2services-structs.pdf](lectures/2services-structs.pdf) 
+
 3. Chapter 3: Processes     [⟶3processes.pdf](lectures/3processes.pdf) 
+
 4. Chapter 4: Threads & Concurrency   
    - Intro to concurrency and multi thread programming [⟶4a-concurrency-multi-thread-programming.pdf](lectures/4a-concurrency-multi-thread-programming.pdf)  
    - Multi thread programming examples in C/C++, Java, Python [⟶4b-multi-thread-programming-examples.md](lectures/4b-multi-thread-programming-examples.md)   
@@ -79,7 +84,10 @@ By the end of this course, students will be able to:
    - some readings: 
      - [Old CFS load balancing issues on multicore](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
      - [New Linux Scheduler](https://docs.kernel.org/scheduler/sched-eevdf.html)
-6.  Midterm exam
+
+**Midterm exam**
+*CPU sheduling in Spring 26 left after the midterm*
+### Weeks 9-15
 
 7. Intro to Synchronization: User libraries, mutexes, condition variables, monitors, deadlock, livelock.
     [⟶6synchronization-intro.pdf](lectures/6synchronization-intro.pdf) 
@@ -88,8 +96,9 @@ By the end of this course, students will be able to:
     more advanced topics: improving spinlock efficiency, cache coherency, lock free programming)    
     [⟶7synchronization-II.pdf](lectures/7synchronization-II.pdf)  
     See also basic examples in [lec7-examples](lectures/lec7-examples/) 
-9.   Chapter 9-10: Virtual Memory-hardware and OS  
+9.   Chapter 9-10: Virtual Memory-hardware (main memory) and OS  
     [⟶8a-vm-hw.pdf](lectures/8a-vm-hw.pdf) and [⟶8b-vm-os.pdf](lectures/8b-vm-os.pdf) 
+
 10.  Chapter 11-12: I/O Systems   
    [⟶11io-systems.pdf](lectures/11io-systems.pdf) 
 11. Disk and storage
@@ -98,7 +107,9 @@ By the end of this course, students will be able to:
     [⟶13file-systems.pdf](lectures/13file-systems.pdf)   
 13.  Protection, Security
     [⟶14protection-security.pdf](lectures/14protection-security.pdf)  
-    
+
+**Final Exam**
+*Covers everything*
 
 ## Homeworks and exams
 *   Assigned via classroom.google.com or from github    
