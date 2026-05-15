@@ -62,10 +62,8 @@ By the end of this course, students will be able to:
     *   [https://linux-kernel-labs.github.io/refs/heads/master/index.html](https://linux-kernel-labs.github.io/refs/heads/master/index.html)         
     *   Testing Linux: [https://linux-test-project.github.io/](https://linux-test-project.github.io/)
         
-## Topics and lecture notes 
-*you may see slight changes and some slides maybe covered in more than a week*
-
-### Weeks 1-8
+## Topics and lecture notes (spring 26)
+### Weeks 1-7
 1. 
    - Administrivia [⟶0administrivia.pdf](lectures/0administrivia.pdf)
    - Intro: running a software on a machine [⟶0intro-os-vms-running-sw.pdf](lectures/0intro-os-vms-running-sw.pdf)
@@ -80,14 +78,17 @@ By the end of this course, students will be able to:
    - Intro to concurrency and multi thread programming [⟶4a-concurrency-multi-thread-programming.pdf](lectures/4a-concurrency-multi-thread-programming.pdf)  
    - Multi thread programming examples in C/C++, Java, Python [⟶4b-multi-thread-programming-examples.md](lectures/4b-multi-thread-programming-examples.md)   
    - User threads vs kernel threads [⟶4c-user-and-kernel-threads.pdf](lectures/4c-user-and-kernel-threads.pdf) 
+
+**Midterm exam**
+*CPU sheduling in Spring 26 left after the midterm*
+
+### Weeks 9-15
 5. Chapter 5: CPU Scheduling    [⟶5cpu-scheduling.pdf](lectures/5cpu-scheduling.pdf) 
    - some readings: 
      - [Old CFS load balancing issues on multicore](https://people.ece.ubc.ca/sasha/papers/eurosys16-final29.pdf)
      - [New Linux Scheduler](https://docs.kernel.org/scheduler/sched-eevdf.html)
 
-**Midterm exam**
-*CPU sheduling in Spring 26 left after the midterm*
-### Weeks 9-15
+
 
 7. Intro to Synchronization: User libraries, mutexes, condition variables, monitors, deadlock, livelock.
     [⟶6synchronization-intro.pdf](lectures/6synchronization-intro.pdf) 
@@ -106,7 +107,8 @@ By the end of this course, students will be able to:
 12.  Chapter 13-14-15: File-System Interface, Implementation, and Internals    
     [⟶13file-systems.pdf](lectures/13file-systems.pdf)   
 13.  Protection, Security
-    [⟶14protection-security.pdf](lectures/14protection-security.pdf)  
+    [⟶14a-intro](lectures/14a-intro-to-security.pdf)  
+    [⟶14b-os-protection-security](lectures/14a-protection-security.pdf)  
 
 **Final Exam**
 *Covers everything*
